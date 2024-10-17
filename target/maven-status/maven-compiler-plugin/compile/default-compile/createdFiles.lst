@@ -1,0 +1,7 @@
+com\codegym\servletTask\model\AbstractEntity.class
+com\codegym\servletTask\model\Question.class
+com\codegym\servletTask\model\Question$Type.class
+com\codegym\servletTask\model\Repository.class
+com\codegym\servletTask\web\AuthServlet.class
+com\codegym\servletTask\model\Answer.class
+com\codegym\servletTask\web\QuestServlet.class
