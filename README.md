@@ -1,1 +1,1 @@
-A sample project demonstrating usage of JSP & JSTL
+A sample project demonstrating usage of Servlets, JSP & JSTL
